@@ -1,5 +1,7 @@
 # .NET Framework Projects
 
+![dot-NET-Standard-Logo-Rectangle](https://github.com/shuklaritvik06/dotnet-framework-learnings/assets/72812470/dbb58af4-94e0-4c24-8b6d-9fc8165044e6)
+
 Welcome to the .NET Framework Projects repository! This repository contains a collection of projects developed using the .NET Framework, showcasing the versatility and power of this framework for building robust and scalable applications.
 
 ## Contribution
